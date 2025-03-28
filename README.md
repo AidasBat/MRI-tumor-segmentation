@@ -1,6 +1,5 @@
 # MRI-tumor-segmentation
-# Work in Progress. MRI tumor segmentation with Tensorflow. This project is currently under active development. 
-This repository aims to build a deep learning-based MRI tumor detection model using Tensorflow.
+This repository aims to build a deep learning-based MRI tumor segmentation model using Tensorflow (utilized with UNET).
 
 Dataset source:
 https://figshare.com/articles/dataset/brain_tumor_dataset/1512427
@@ -18,3 +17,14 @@ https://figshare.com/articles/dataset/brain_tumor_dataset/1512427
    ```bash
    jupyter notebook
    ```
+
+# Results example
+The images below contains:  
+
+`              Input image                       Ground truth                      Predicted mask          `
+
+| ![](results/3.png) |
+| :--: |
+| ![](results/1002.png) |
+| ![](results/12.png) |
+| ![](results/108.png) |
