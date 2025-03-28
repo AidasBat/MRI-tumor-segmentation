@@ -1,6 +1,6 @@
 # MRI-tumor-segmentation
-# Work in Progress. MRI tumor segmentation with Keras. This project is currently under active development. 
-This repository aims to build a deep learning-based MRI tumor detection model using TensorFlow.
+# Work in Progress. MRI tumor segmentation with Tensorflow. This project is currently under active development. 
+This repository aims to build a deep learning-based MRI tumor detection model using Tensorflow.
 
 Dataset source:
 https://figshare.com/articles/dataset/brain_tumor_dataset/1512427
